@@ -1,17 +1,17 @@
 @echo off
 :START
 cls
-ECHO.
-ECHO 1 - Report Issue
-ECHO 2 - Check For Updates (Currently 0.0.6)
-ECHO 3 - Soon
-ECHO 4 - Exit
-ECHO.
-SET /P MENU=Enter your option: 
-IF %MENU%==1 goto ISSUE
-IF %MENU%==2 goto UPDATE
-IF %MENU%==3 goto SOON
-IF %MENU%==4 goto EXIT
+echo.
+echo 1 - Report Issue
+echo 2 - Check For Updates (Currently 0.0.6)
+echo 3 - Soon
+echo 4 - Exit
+echo.
+set /P MENU=Enter your option: 
+if %MENU%==1 goto ISSUE
+if %MENU%==2 goto UPDATE
+if %MENU%==3 goto SOON
+if %MENU%==4 goto EXIT
 goto START
 
 :ISSUE
