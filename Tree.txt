@@ -11,9 +11,16 @@ C:.
 |   +---0.0.1
 |   |       BatchTools.exe
 |   |       
-|   \---0.0.2
+|   +---0.0.2
+|   |       BatchTools.exe
+|   |       
+|   +---0.0.3
+|   |       BatchTools.exe
+|   |       
+|   \---0.0.4
 |           BatchTools.exe
 |           
 \---Code
+        init.bat
         run.bat
         
