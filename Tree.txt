@@ -29,5 +29,6 @@ C:.
         icon.png
         init.bat
         issue.url
+        release.url
         run.bat
         
