@@ -12,6 +12,7 @@ IF %MENU%==1 goto ISSUE
 IF %MENU%==2 goto SOON
 IF %MENU%==3 goto SOON
 IF %MENU%==4 goto EXIT
+goto START
 
 :ISSUE
 start issue.url

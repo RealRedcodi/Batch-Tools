@@ -17,10 +17,17 @@ C:.
 |   +---0.0.3
 |   |       BatchTools.exe
 |   |       
-|   \---0.0.4
+|   +---0.0.4
+|   |       BatchTools.exe
+|   |       
+|   \---0.0.5
 |           BatchTools.exe
 |           
 \---Code
+        batchtools.bat
+        icon.ico
+        icon.png
         init.bat
+        issue.url
         run.bat
         
