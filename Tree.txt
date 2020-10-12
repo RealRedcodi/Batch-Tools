@@ -1,6 +1,16 @@
 C:.
-    maketree.bat
-    TreeOld.txt
-    
-No subfolders exist 
-
+|   .gitattributes
+|   .gitignore
+|   LICENSE
+|   maketree.bat
+|   README.md
+|   Tree.txt
+|   TreeOld.txt
+|   
++---Build
+|   \---0.0.1
+|           BatchTools.exe
+|           
+\---Code
+        run.bat
+        
