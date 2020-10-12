@@ -8,18 +8,8 @@ C:.
 |   TreeOld.txt
 |   
 +---Build
-|   +---0.0.1
-|   |       BatchTools.exe
-|   |       
-|   +---0.0.2
-|   |       BatchTools.exe
-|   |       
-|   +---0.0.3
-|   |       BatchTools.exe
-|   |       
-|   +---0.0.4
-|   |       BatchTools.exe
-|   |       
+|   |   Past.zip
+|   |   
 |   \---0.0.5
 |           BatchTools.exe
 |           
