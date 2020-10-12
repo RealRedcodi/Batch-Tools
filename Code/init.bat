@@ -1,4 +1,5 @@
 @echo off
+title Start Batch Tools now?
 setlocal
 :PROMPT
 SET /P startq=Would you like to start the program now? (Y/[N]) 
