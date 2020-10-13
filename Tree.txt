@@ -15,6 +15,7 @@ C:.
 |           
 \---Code
         batchtools.bat
+        credits.url
         icon.ico
         icon.png
         init.bat
