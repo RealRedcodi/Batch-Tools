@@ -10,7 +10,7 @@ echo 5 - Soon
 echo 6 - Soon
 echo 7 - Soon
 echo 8 - Soon
-echo 9 - Soon
+echo 9 - Restart Batch Tools
 echo 10 - Exit
 echo.
 set /P MENU=Enter your choice: 
@@ -22,7 +22,7 @@ if %MENU%==5 goto SOON
 if %MENU%==6 goto SOON
 if %MENU%==7 goto SOON
 if %MENU%==8 goto SOON
-if %MENU%==9 goto SOON
+if %MENU%==9 goto RESTART
 if %MENU%==10 goto EXIT
 goto START
 
@@ -40,5 +40,9 @@ echo Coming Soon!
 pause
 goto START
 
+:Restart
+echo One moment
+init.bat
+goto EXIT
 :EXIT
 exit

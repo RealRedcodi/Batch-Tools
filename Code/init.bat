@@ -1,4 +1,5 @@
 @echo off
+cls
 title Start Batch Tools now?
 setlocal
 :PROMPT
