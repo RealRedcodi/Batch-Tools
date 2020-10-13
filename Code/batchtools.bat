@@ -13,7 +13,7 @@ echo 8 - Soon
 echo 9 - Soon
 echo 10 - Exit
 echo.
-set /P MENU=Enter your option: 
+set /P MENU=Enter your choice: 
 if %MENU%==1 goto ISSUE
 if %MENU%==2 goto UPDATE
 if %MENU%==3 goto SOON
