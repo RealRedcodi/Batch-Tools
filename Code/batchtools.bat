@@ -3,7 +3,7 @@
 cls
 echo.
 echo 1 - Report Issue
-echo 2 - Check For Updates (Currently 0.0.7b)
+echo 2 - Check For Updates (Currently 0.0.7)
 echo 3 - Soon
 echo 4 - Soon
 echo 5 - Soon
